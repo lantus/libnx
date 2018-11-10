@@ -1,0 +1,23 @@
+var searchData=
+[
+  ['gfxappendfence',['gfxAppendFence',['../gfx_8h.html#a311b8155abcfee59fecacda17fefe52e',1,'gfx.h']]],
+  ['gfxconfigureautoresolution',['gfxConfigureAutoResolution',['../gfx_8h.html#ae287c2224fd7a79d8a052f5e1cafd3af',1,'gfx.h']]],
+  ['gfxconfigureautoresolutiondefault',['gfxConfigureAutoResolutionDefault',['../gfx_8h.html#ad431d984c3ed634e626937b5cd57b4ac',1,'gfx.h']]],
+  ['gfxconfigurecrop',['gfxConfigureCrop',['../gfx_8h.html#a3fea73bebd8b7c41393febfefbe263cc',1,'gfx.h']]],
+  ['gfxconfigureresolution',['gfxConfigureResolution',['../gfx_8h.html#aaa25069f4b80f87b148486fc93370174',1,'gfx.h']]],
+  ['gfxconfiguretransform',['gfxConfigureTransform',['../gfx_8h.html#a1c131e2c2af845f2f61267a95c632c66',1,'gfx.h']]],
+  ['gfxexit',['gfxExit',['../gfx_8h.html#aa446ccfdfdd4c575e648956ae96f2a3b',1,'gfx.h']]],
+  ['gfxflushbuffers',['gfxFlushBuffers',['../gfx_8h.html#aea1808bd74fe0c00f9794e455fc8499b',1,'gfx.h']]],
+  ['gfxgetframebuffer',['gfxGetFramebuffer',['../gfx_8h.html#ae40f5ab006dd7514ac61ec85d8eeed67',1,'gfx.h']]],
+  ['gfxgetframebufferdisplayoffset',['gfxGetFramebufferDisplayOffset',['../gfx_8h.html#a193b917df83b7f60753937ebe60060a6',1,'gfx.h']]],
+  ['gfxgetframebufferhandle',['gfxGetFramebufferHandle',['../gfx_8h.html#a7b1ae152a525b172792b5cb40f055bf6',1,'gfx.h']]],
+  ['gfxgetframebufferpitch',['gfxGetFramebufferPitch',['../gfx_8h.html#a8640c756658a35f9f5e53eff7fc8dd9e',1,'gfx.h']]],
+  ['gfxgetframebufferresolution',['gfxGetFramebufferResolution',['../gfx_8h.html#af7312f37406644e8aef016a3ab705682',1,'gfx.h']]],
+  ['gfxgetframebuffersize',['gfxGetFramebufferSize',['../gfx_8h.html#ab622831e9343177ac6be2efe062cfceb',1,'gfx.h']]],
+  ['gfxinitdefault',['gfxInitDefault',['../gfx_8h.html#a28f1ebafbccc6628763bc381b6a72b31',1,'gfx.h']]],
+  ['gfxinitresolution',['gfxInitResolution',['../gfx_8h.html#a825bc071450f60a4c38aceeb937abc02',1,'gfx.h']]],
+  ['gfxinitresolutiondefault',['gfxInitResolutionDefault',['../gfx_8h.html#a6d05ae649eba4b91a3b93af1afaa3ad1',1,'gfx.h']]],
+  ['gfxsetmode',['gfxSetMode',['../gfx_8h.html#a650e0b882b6f80bc73c1334ed1920c9e',1,'gfx.h']]],
+  ['gfxswapbuffers',['gfxSwapBuffers',['../gfx_8h.html#a0f338920111994110975dc0d1360bb1f',1,'gfx.h']]],
+  ['gfxwaitforvsync',['gfxWaitForVsync',['../gfx_8h.html#ac6d575417f221ba01ed96935ae3aae06',1,'gfx.h']]]
+];
